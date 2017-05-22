@@ -1,1 +1,4 @@
 Arquivo de teste para push no github
+
+Testado e aprovado por mim
+	Simone Louzada Moraes Paim Santos
